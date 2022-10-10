@@ -26,38 +26,38 @@
 <table style="width:100%">
   <tr>
   <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	<a href="https://www.leagueoflegends.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
 	</a>
 	</td>
-    <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+  <td>
+	<a href="https://www.labyrinthinegame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+	<a href="https://pokemonmasters-game.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
 	</a>
 	</td>
 	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+	<a href="https://disneymirrorverse.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
 	</a>
 	</td>
 	</td>
-  </tr>
+    </tr>
     <tr>
     <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
+	<a href="https://www.devourgame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
 	</a>
 	</td>
 	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
+	<a href="https://kineticgames.co.uk/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
 	</a>
   </tr>
 </table>
