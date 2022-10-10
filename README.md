@@ -1,5 +1,6 @@
 # Hola, my name is Dani 👋
-### And Im an Audio Production and Unreal Teacher at [`@CEVBCN`](https://www.cevbarcelona.com/)
+### And Im an Audio Production and Unreal Teacher at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
+
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
@@ -8,7 +9,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
 
-Here are some ideas to get you started:
+Here are some of the softwares that I teach:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
