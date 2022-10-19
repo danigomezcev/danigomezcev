@@ -1,12 +1,15 @@
 # Hola, my name is Dani 👋
 ### And Im an Audio Production and Unreal Teacher at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
+
+
 [![Uploading image.png…](https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/koocachookies_github_profile.png)](https://github.com/danigomezcev])
 
 [![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
 ![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
+[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
 
 ## Here are some of the softwares that I teach:
 
