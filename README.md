@@ -1,8 +1,6 @@
 # Hola, my name is Dani 👋
 ### And Im an Audio Production and Unreal Teacher at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vJpo5dW3Ze4?si=Gsd3NZYE4fDAVJPe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 [![Uploading image.png…](https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/koocachookies_github_profile.png)](https://github.com/danigomezcev])
 
 [![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
